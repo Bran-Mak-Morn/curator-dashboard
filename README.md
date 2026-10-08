@@ -33,7 +33,7 @@ curator/
 
 ## 🔗 Links
 
-- Project Website: **[Linux Field Notes](https://curator.georgefreedom.com/)**
+- Project Website: **[Curated Toolkit](https://curator.georgefreedom.com/)**
 - **[Personal website](https://GeorgeFreedom.com)**
 - **[LinkedIn](https://www.linkedin.com/in/georgefreedom/)**
 
